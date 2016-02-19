@@ -4,3 +4,6 @@
 [submodule "plugins/sensible"]
 	path = plugins/sensible
 	url = https://github.com/tmux-plugins/tmux-sensible
+[submodule "plugins/colors-solarized"]
+	path = plugins/colors-solarized
+	url = https://github.com/seebi/tmux-colors-solarized.git
