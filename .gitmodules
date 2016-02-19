@@ -7,3 +7,6 @@
 [submodule "plugins/colors-solarized"]
 	path = plugins/colors-solarized
 	url = https://github.com/seebi/tmux-colors-solarized.git
+[submodule "plugins/pain-control"]
+	path = plugins/pain-control
+	url = https://github.com/tmux-plugins/tmux-pain-control.git
